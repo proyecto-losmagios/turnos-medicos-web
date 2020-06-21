@@ -21,10 +21,12 @@ Repositorios de los MS
 # Log del proyecto
 
 Create React App
+
     npx create-react-app turnos-medicos-web
 
 
 Paquetes extras
+
     npm install --save axios
     npm install react-router-dom
 
