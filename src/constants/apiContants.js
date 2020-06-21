@@ -1,0 +1,1 @@
+export const API_MEDICO_URL = 'http://localhost:4300/api';
