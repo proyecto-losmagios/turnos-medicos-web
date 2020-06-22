@@ -22,7 +22,7 @@ class DropDownMedico extends React.Component {
             <p>Médico</p>
             <select>{
                 this.state.medicos.map((obj) => {
-                    return <option value={obj.medicoId}>{obj.apellido}, {obj.nombre}</option>
+                    return <option key={obj.medicoId}>{obj.apellido}, {obj.nombre}</option>
                 })
             }</select>
             </div>;

@@ -1,5 +1,5 @@
 import React from 'react';
-import DropDown from '../DropDownMedico/DropDownMedico';
+import DropDownMedico from '../DropDownMedico/DropDownMedico';
 
 function Home(props) {
     return(
