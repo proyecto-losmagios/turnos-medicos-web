@@ -68,7 +68,7 @@ function LoginForm(props) {
                        className="form-control" 
                        id="email" 
                        aria-describedby="emailHelp" 
-                       placeholder="Enter email" 
+                       placeholder="Ingrese su email" 
                        value={state.email}
                        onChange={handleChange}
                 />
@@ -78,7 +78,7 @@ function LoginForm(props) {
                 <input type="password" 
                        className="form-control" 
                        id="password" 
-                       placeholder="Password"
+                       placeholder="Ingrese su contraseña"
                        value={state.password}
                        onChange={handleChange} 
                 />
