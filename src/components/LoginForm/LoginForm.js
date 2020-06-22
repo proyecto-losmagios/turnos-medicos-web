@@ -38,7 +38,7 @@ function LoginForm(props) {
         //         if(response.data.code === 200){
         //             setState(prevState => ({
         //                 ...prevState,
-        //                 'successMessage' : 'Login successful. Redirecting to home page..'
+        //                 'successMessage' : 'Login OK...'
         //             }))
         //             redirectToHome();
         //             props.showError(null)
