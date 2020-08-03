@@ -25,8 +25,6 @@ Create React App
     npx create-react-app turnos-medicos-web
 
 
-Paquetes extras
+Instalar dependencias
 
-    npm install --save axios
-    npm install react-router-dom
-
+    npm i
